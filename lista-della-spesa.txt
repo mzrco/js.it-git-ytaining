@@ -1,4 +1,5 @@
 patata
 carote
 zucchine
+sale
 
